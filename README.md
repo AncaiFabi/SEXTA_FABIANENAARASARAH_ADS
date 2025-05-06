@@ -10,15 +10,8 @@
 
 ## ✅ Exercícios Resolvidos
 1. **Validador de Senhas Fortes**  
-2. *[Inserir título aqui]*  
-3. *[Inserir título aqui]*  
-4. *[Inserir título aqui]*  
-5. *[Inserir título aqui]*  
-6. *[Inserir título aqui]*  
-7. *[Inserir título aqui]*  
-8. *[Inserir título aqui]*  
 9. **Jogo da Adivinhação**  
-10. *[Inserir título aqui]*  
+
 
 > ⚠️ Obs.: Todos os exercícios foram resolvidos utilizando exclusivamente a linguagem C#.
 
