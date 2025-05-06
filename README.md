@@ -5,17 +5,10 @@
 - Naara Sevciuc  
 - Sarah Veloso
 
-## 📆 Data de Entrega
-**Até 02/05 às 23h59**
-
 ## ✅ Exercícios Resolvidos
 1. **Validador de Senhas Fortes**  
 9. **Jogo da Adivinhação**  
 
-
-> ⚠️ Obs.: Todos os exercícios foram resolvidos utilizando exclusivamente a linguagem C#.
-
----
 
 ## 📝 Descrição Funcional dos Exercícios
 
